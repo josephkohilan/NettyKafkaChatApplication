@@ -1,5 +1,5 @@
 # NettyKafkaChatApplication
-NettyKafkaChatApplication is a netty server- client chat application in which the netty server queues the message in Kafka queue
+NettyKafkaChatApplication is a netty server-client chat application in which the netty server queues the client, server and chat messages in Kafka queue
 
 To run this application,
 
